@@ -1,0 +1,38 @@
+{
+  "mahasiswa": [
+    {
+      "id": 1,
+      "nama": "Naufal",
+      "nim": "21/475411/SV/19106",
+      "kelas": "A",
+      "icon": "laugh",
+      "color": "#0F0F0F"
+    },
+    {
+      "nama": "RAGA",
+      "nim": "21/475411/SV/19106",
+      "kelas": "A",
+      "icon": "laugh",
+      "color": "#0F0F0F",
+      "id": 2
+    },
+    {
+      "nama": "Saiful",
+      "nim": "455555",
+      "kelas": "A",
+      "jeniskelamin": "Lakik",
+      "color": "F00000",
+      "icon": "ghost",
+      "id": 3
+    },
+    {
+      "nama": "",
+      "nim": "",
+      "kelas": "",
+      "jeniskelamin": "",
+      "color": "",
+      "icon": "",
+      "id": 4
+    }
+  ]
+}

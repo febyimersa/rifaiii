@@ -1,0 +1,98 @@
+[
+  {
+    "nama": "Kedai Kopi 28",
+    "lokasi": "Sleman",
+    "kelas": "A",
+    "jeniskelamin": "Perempuan",
+    "icon": "coffee",
+    "color": "#84A2D7"
+  },
+  {
+    "nama": "Warung Kopi DALAN TIKUNG",
+    "lokasi": "Gunung Kidul",
+    "kelas": "A",
+    "jeniskelamin": "Perempuan",
+    "icon": "coffee",
+    "color": "#E6E260"
+  },
+  {
+    "nama": "Kedai Kopi Ndelik",
+    "lokasi": "Kulon Progo",
+    "kelas": "A",
+    "jeniskelamin": "Perempuan",
+    "icon": "coffee",
+    "color": "#C70039"
+  },
+  {
+    "nama": "Setjangkir Kopi Coffee House",
+    "lokasi": "Kulon Progo",
+    "kelas": "A",
+    "jeniskelamin": "Laki-laki",
+    "icon": "coffee",
+    "color": "#0F83BD"
+  },
+  {
+    "nama": "Kopi paseduluran",
+    "lokasi": "Bantul",
+    "kelas": "A",
+    "jeniskelamin": "Laki-laki",
+    "icon": "coffee",
+    "color": "black"
+  },
+  {
+    "nama": "Sastro's Coffee",
+    "lokasi": "Bantul",
+    "kelas": "A",
+    "jeniskelamin": "Perempuan",
+    "icon": "coffee",
+    "color": "#C09EFF"
+  },
+  {
+    "nama": "Kopi Panggang Dan Resto",
+    "lokasi": "Gunung Kidul",
+    "kelas": "A",
+    "jeniskelamin": "Perempuan",
+    "icon": "coffee",
+    "color": "#363062"
+  },
+  {
+    "nama": "Senikmat Kopi",
+    "lokasi": "Gunung Kidul",
+    "kelas": "A",
+    "jeniskelamin": "",
+    "icon": "coffee",
+    "color": ""
+  },
+  {
+    "nama": "Kopi Merapi",
+    "lokasi": "Sleman",
+    "kelas": "A",
+    "jeniskelamin": "Perempuan",
+    "icon": "coffee",
+    "color": "#DCBFFF"
+  },
+  {
+    "nama": "Kedai Kopi Kota Sleman",
+    "lokasi": "Sleman",
+    "kelas": "A",
+    "jeniskelamin": "",
+    "icon": "coffee",
+    "color": ""
+  },
+  {
+    "nama": "Cerita Kopi YK",
+    "lokasi": "Kota Yogyakarta",
+    "kelas": "A",
+    "jeniskelamin": "Perempuan",
+    "icon": "coffee",
+    "color": "#FFC436"
+  },
+  {
+    "nama": "Kopa Kopi Purwanggan",
+    "lokasi": "Kota Yogyakarta",
+    "kelas": "A",
+    "jeniskelamin": "Perempuan",
+    "icon": "coffee",
+    "color": "#164863"
+  }
+]
